@@ -1,0 +1,24 @@
+/*nav*/ 
+nav{
+    background-color: rgb(233, 197, 197);
+    height: 100px;
+    width: 1300px;
+}
+h1{
+    color: brown;
+    
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+ul{
+    float: right;
+    overflow: hidden;
+    padding: 0px 0;
+    margin: 0px 0;
+    margin-right: 10px;
+    color: brown;
+    padding-bottom: 5px;
+}

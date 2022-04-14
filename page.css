@@ -1,0 +1,37 @@
+img{
+    height: 300px;
+    width: 370px;
+    margin-left: 50px;
+    padding-top: 10px;
+    text-align: justify;
+    
+}
+.flotte{
+   float: right;
+   padding-top: 90px;
+   margin-right: 390px;
+   color: brown;
+}
+.flott{
+    float: right;
+    padding-top: 10px;
+    margin-right: 300px;
+    color: black;
+}
+a{
+    font-size: 20px;
+    color: brown;
+}
+body{
+    background-color: rgb(218, 186, 186);
+    
+}
+button{
+    height: 25px;
+    width: 80px;
+    background-color: rgb(158, 111, 111);
+    border-top: 5px;
+    float: right;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
