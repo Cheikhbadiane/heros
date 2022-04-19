@@ -6,6 +6,10 @@ img{
     text-align: justify;
     
 }
+.imag{
+    float: right;
+    
+}
 .flotte{
    float: right;
    padding-top: 90px;
